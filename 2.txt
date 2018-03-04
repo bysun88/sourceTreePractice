@@ -3,3 +3,5 @@ second file - sponge
 sponge started a new file here.
 
 sponge adds a line at 2.file
+
+sponge was here...
